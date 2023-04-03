@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Emon Ali</h1>
-<h3 align="center">A  programmer from Bangladesh</h3>
+<h3 align="center">A  passionate SQA Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
 
-- 🔭 I’m currently studying on **Computer Science & Engineering**
+- 🔭 I have completed B.Sc. Engg. in **Computer Science & Engineering**
 
-- 🌱 I’m currently learning **Software Quality Assurance**
+- 🌱 I’m currently developing my skills over **Software Quality Assurance**
 
 - 📫 How to reach me **emonali.w@gmail.com**
 
