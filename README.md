@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emon</h1>
 <h3 align="center">A passionate Software Tester from planet earth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
 
-- 🔭 I’m currently working as a **Software Quality Assurance Engineer**
+                      - 🔭 I’m currently working as a **Software Quality Assurance ( SQA ) Engineer**
 
-- 🌱 I’m currently learning **Automation Testing**
+                            - 🌱 I’m currently learning **Automation Testing Tools & Frameworks**
 
-- 💬 Ask me about **Manual & Automation Testing**
+                                    - 💬 Ask me about **Manual & Automation Testing**
 
-- 📫 How to reach me **emonali.w@gmail.com**
-
-- ⚡ Fun fact **I am not a robot**
+                                       - 📫 How to reach me **emonali.w@gmail.com**
+   
+                                            - ⚡ Fun fact **I am not a robot**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
