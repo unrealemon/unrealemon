@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emon</h1>
-<h3 align="center">a passionate Software Tester from planet earth</h3>
+<h3 align="center">A passionate Software Tester from planet earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unrealemon" alt="unrealemon" /></a> </p>
 
 - 🔭 I’m currently working as a **Software Quality Assurance Engineer**
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **emonali.w@gmail.com**
 
-- ⚡ Fun fact **i am not a robot**
+- ⚡ Fun fact **I am not a robot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
