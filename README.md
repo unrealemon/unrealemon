@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emon</h1>
 <h3 align="center">A passionate Software Tester from planet earth</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
 
                       - 🔭 I’m currently working as a **Software Quality Assurance ( SQA ) Engineer**
 
