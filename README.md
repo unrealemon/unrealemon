@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emon</h1>
-<h3 align="center">A passionate Software Tester from planet earth</h3>
+<h3 align="center">A passionate Software Tester from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
 
-- 🔭 I’m currently working as a **Software Quality Assurance ( SQA ) Engineer**
+- 🔧 Working as an SQA Engineer with 1+ years of experience
+- 💻 Expertise: Selenium, Cypress, Postman, JMeter, Git, JIRA
+- 📫 Reach me: Email: [emonali.w@gmail.com] | Linkedin: [http://linkedin.com/in/aliemon] | Phone: [+8801990926360]
 
-- 🌱 I’m currently learning **Automation Testing Tools & Frameworks**
-
-- 💬 Ask me about **Manual & Automation Testing**
-
-- 📫 How to reach me **emonali.w@gmail.com**
-   
-- ⚡ Fun fact **I am not a robot**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
