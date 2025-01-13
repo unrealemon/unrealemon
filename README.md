@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Emon</h1>
-<h3 align="center">A passionate Software Tester from Bangladesh</h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
 
@@ -20,4 +20,3 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unrealemon&show_icons=true&locale=en&layout=compact" alt="unrealemon" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unrealemon&" alt="unrealemon" /></p>
