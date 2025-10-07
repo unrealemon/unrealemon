@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealemon&label=Profile%20views&color=0e75b6&style=flat" alt="unrealemon" /> </p>
 
-- 🔧 Working as an SQA Engineer with 1+ years of experience
-- 💻 Expertise: Selenium, Cypress, Postman, JMeter, Git, JIRA
+- 🔧 Working as an SQA Engineer with 2+ years of experience
+- 💻 Expertise: Playwright, Selenium, Cypress, Postman, JMeter, Git, JIRA, ClickUp
 - 📫 Reach me: Email: [emonali.w@gmail.com] | Linkedin: [http://linkedin.com/in/aliemon] | Phone: [+8801990926360]
 
 
